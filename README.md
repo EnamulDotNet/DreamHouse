@@ -1,2 +1,2 @@
 # DreamHouse
-A project to use myself
+A project for myself
